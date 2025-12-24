@@ -292,5 +292,4 @@ with tab3:
             "XLSX 다운로드",
             data=buffer,
             file_name="생육결과_전체.xlsx",
-            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
-        )
+            mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
